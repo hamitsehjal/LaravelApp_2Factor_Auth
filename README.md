@@ -1,4 +1,6 @@
 ## Track your work in a secured way
+- 2 Factor Authentication Enables
+- Easy to add/remove items
 
 ## Installation and Setup
 
