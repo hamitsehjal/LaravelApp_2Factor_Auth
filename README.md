@@ -8,8 +8,8 @@ Follow these steps to run the Todo app locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone [<repository-url>](https://github.com/hamitsehjal/LaravelApp_2Factor_Auth)
+    cd LaravelApp_2Factor_Auth
     ```
 
 2. **Install PHP dependencies using Composer**:
